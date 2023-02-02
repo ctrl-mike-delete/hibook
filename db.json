@@ -28,7 +28,7 @@
   "profile": {
     "name": "tosin"
   },
-   "user": {
+   "user": [{
     "name": "mike"
-  }
+  }]
 }
